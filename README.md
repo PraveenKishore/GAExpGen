@@ -18,4 +18,4 @@ The program generates such math expressions using genetic algorithm.
 * **MathInterpreter:** For evaluating the math expressions
 
 ###Selection Algorithm Used: 
-[Roulette Wheel selection](https://en.wikipedia.org/wiki/Fitness_proportionate_selection) is used in the program. Although any selection algorithm can be choosen.
+[Tournament selection](https://en.wikipedia.org/wiki/Tournament_selection) is used in the program. Although any selection algorithm can be choosen.

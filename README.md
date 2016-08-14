@@ -1,5 +1,7 @@
 # GAExpGen
-Genetic Algorithm to produce Math Expressions that results in a given number written in **Java**
+Implementation of Genetic Algorithm to produce Math Expressions that results in a given number
+
+**Programming Language:** Java
 
 ###Example:
 If TARGET number is 100, <br>

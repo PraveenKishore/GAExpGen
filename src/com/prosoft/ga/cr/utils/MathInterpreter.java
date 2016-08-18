@@ -2,6 +2,9 @@ package com.prosoft.ga.cr.utils;
 
 /**
  * Created by Praveen on 09-Aug-16.
+ * 
+ * Special thanks to Boann,
+ * http://stackoverflow.com/questions/3422673/evaluating-a-math-expression-given-in-string-form/3423360
  */
 public class MathInterpreter {
     public static double solve(String str) {

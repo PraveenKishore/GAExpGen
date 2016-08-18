@@ -1,4 +1,4 @@
-# GAExpGen
+# GAExpGen: Genetic Algorithm based Math Expression Generator
 Implementation of Genetic Algorithm to produce Math Expressions that results in a given number
 
 **Programming Language:** Java
